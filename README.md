@@ -1,2 +1,2 @@
-# data-structures-practice-
+# data-structures-practice
 Refreshing data structure practise code 
